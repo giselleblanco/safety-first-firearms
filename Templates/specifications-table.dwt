@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<table width="950" height="232">
+		<tr>
+			<td>Calibers</td>
+			<td><!-- TemplateBeginEditable name="calibers-content" -->content<!-- TemplateEndEditable --></td>
+		</tr>
+		<tr>
+			<td>Action Type</td>
+			<td><!-- TemplateBeginEditable name="actiontype-content" -->content<!-- TemplateEndEditable --></td>
+		</tr>
+		<tr>
+			<td>Overall Length </td>
+			<td><!-- TemplateBeginEditable name="overall-length-content" -->content<!-- TemplateEndEditable --></td>
+		</tr>
+	</table>
+</body>
+</html>
