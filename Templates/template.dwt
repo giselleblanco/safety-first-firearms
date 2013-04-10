@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<table width="950">
+		<tr>
+			<td colspan="2"><img src="../images/banner.jpg" width="950" height="150" /></td>
+		</tr>
+		<tr>
+			<td>
+				<p><!-- #BeginLibraryItem "/Library/links.lbi" --><p>Navigation: </p>
+	<ul>
+		<li><a href="../index.html">Homepage</a></li>
+		<li><a href="../about/company-page.html">Company Page</a></li>
+		<li><a href="../products/beretta.html">Bretta 92FS (9MM)</a></li>
+		<li><a href="../products/sig-sauer.html">Sig Sauer P229 (9MM)</a></li>
+		<li><a href="../products/heckler-koch.html">Heckler &amp; Koch P30L (9MM)</a></li>
+		<li><a href="../products/weather.html">Walther PPQ M2</a></li>
+		<li><a href="../outdoor-locations/east-coast.html">East Coast Location</a></li>
+		<li><a href="../outdoor-locations/west-coast.html">West Coast Location</a></li>
+		<li><a href="../outdoor-locations/new-england.html">New England Location</a></li>
+		<li><a href="../outdoor-locations/midwest.html">Midwest Location</a></li></ul><!-- #EndLibraryItem --></p>
+				<p>&nbsp;</p>
+			</td>
+			<td><!-- TemplateBeginEditable name="content" -->Content<!-- TemplateEndEditable --></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="../images/footer.jpg" width="950" height="150" /></td>
+		</tr>
+	</table>
+</body>
+</html>

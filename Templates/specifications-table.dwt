@@ -10,6 +10,10 @@
 </head>
 
 <body>
+	<h1>
+		<!-- TemplateBeginEditable name="gunname" -->Gun <!-- TemplateEndEditable -->
+	</h1>
+	<h2>Specifications</h2>
 	<table width="950" height="232">
 		<tr>
 			<td>Calibers</td>
@@ -24,5 +28,6 @@
 			<td><!-- TemplateBeginEditable name="overall-length-content" -->content<!-- TemplateEndEditable --></td>
 		</tr>
 	</table>
+	<p>Ut in nulla leo. Integer iaculis accumsan leo, a elementum mi porta ut. Curabitur scelerisque sapien lorem, eget eleifend quam. Quisque aliquet, erat et commodo sollicitudin, sem odio dapibus eros, in euismod nulla erat volutpat ante. Vestibulum ac lacus nunc, vel consequat eros. Nunc nec arcu id ipsum ultrices placerat sed vel mi. Sed vitae nulla id sem consequat vulputate quis non felis. Suspendisse ut leo tellus. Praesent nisi ipsum, eleifend at tincidunt sed, hendrerit eget tellus. Donec fringilla pellentesque tortor, vitae faucibus ipsum vulputate vitae.</p>
 </body>
 </html>
